@@ -1,0 +1,4 @@
+﻿  plane.cpp
+D:\vs\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\vs_project\Project3\plane.cpp(211,14): warning C4018: “>”: 有符号/无符号不匹配
+  Project3.vcxproj -> E:\vs_project\Project3\x64\Debug\Project3.exe
